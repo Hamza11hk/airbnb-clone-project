@@ -65,13 +65,13 @@ A user-friendly design is essential in a booking system because:
 
 #### Color Styles
 - **Primary Colors**:  
-  - #13ad7d (Airbnb Pink)  
+  - #13ad7d (Airbnb Green)  
   - #FFFFFF (White)  
   - #000000 (Black)  
 - **Secondary Colors**:  
   - #F7F7F7 (Light Gray)  
   - #717171 (Dark Gray)
-  - #f5e105
+  - #f5e105 (yellow)
 
 #### Typography 
 - **Font Family**:  
